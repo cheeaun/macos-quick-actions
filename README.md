@@ -32,7 +32,7 @@ Creates a `gz` file of a selected file. Requires `gzip` (built-in).
 
 ### `Convert to JPEG`
 
-Creates a oopy of an image file in JPEG format.
+Creates a copy of an image file in JPEG format.
 
 <img src="screenshots/jpg-1.jpg" width="370"> <img src="screenshots/jpg-2.jpg" width="105">
 
