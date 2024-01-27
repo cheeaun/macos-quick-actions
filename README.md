@@ -48,6 +48,12 @@ Translates text to English, showing a popup of [Google Translate's website](http
 
 <img src="screenshots/trans-1.jpg" width="483"> <img src="screenshots/trans-2.jpg" width="731">
 
+### `Open in VSCode`
+
+Opens selected file or folder contents in VSCode.
+
+<img src="screenshots/vs-1.jpg" width="500"> 
+
 Other useful resources
 ---
 
